@@ -4,7 +4,7 @@ Aryan Shrivastav
 
 from webbrowser import open_new as aap
 
-a= open("ravi.html","w") r = """<!doctype html> <html>
+a= open("aryan.html","w") r = """<!doctype html> <html>
 <head>
 
 <title>RESUME</title>
@@ -198,4 +198,4 @@ a.write(r)
 
 a.close()
 
-aap("ravi.html")
+aap("aryan.html")
